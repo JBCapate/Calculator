@@ -1,0 +1,10 @@
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\bin\Debug\MineCalculator.exe.config
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\bin\Debug\MineCalculator.exe
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\bin\Debug\MineCalculator.pdb
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.csprojAssemblyReference.cache
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.Form1.resources
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.Properties.Resources.resources
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.csproj.GenerateResource.cache
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.exe
+C:\Users\JBICAPATE\source\repos\MineCalculator\MineCalculator\obj\Debug\MineCalculator.pdb
